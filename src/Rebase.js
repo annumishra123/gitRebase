@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function Rebase() {
   return (
-    <div>Rebase jdwdjwjhdjwhdjwh</div>
+    <div>Rebase jdwdjwjhdjwhdjwh anurag mishra</div>
   )
 }
